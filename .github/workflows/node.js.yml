@@ -26,6 +26,8 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: yarn install
     - run: yarn build
+      env:
+        VUE_APP_NOT_SECRET_CODE: github
     - name: deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
