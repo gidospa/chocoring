@@ -1,4 +1,4 @@
-# chocoring
+# CHOCORING
 
 ## Project setup
 ```
