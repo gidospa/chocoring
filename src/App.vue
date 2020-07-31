@@ -15,7 +15,7 @@ export default {
   },
   data() {
     return {
-      msg2: process.env.VUE_APP_NOT_SECRET_CODE
+      msg2: process.env.VUE_APP_TITLE
     }
   }
 }

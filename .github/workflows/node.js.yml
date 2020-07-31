@@ -27,7 +27,7 @@ jobs:
     - run: yarn install
     - run: yarn build
       env:
-        VUE_APP_NOT_SECRET_CODE: ${{ secrets.SECRET_KEY }}
+        VUE_APP_TITLE: ${{ secrets.SECRET_KEY }}
     - name: deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
