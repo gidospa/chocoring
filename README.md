@@ -1,4 +1,5 @@
 # CHOCORING
+![Node.js CI](https://github.com/gidospa/chocoring/workflows/Node.js%20CI/badge.svg)
 
 ## Project setup
 ```
