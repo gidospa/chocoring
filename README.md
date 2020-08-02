@@ -1,8 +1,6 @@
 # CHOCORING
 ![Vue.js](https://github.com/gidospa/chocoring/workflows/Vue.js/badge.svg)
 
-![BOARD](https://user-images.githubusercontent.com/43918802/89122639-c120ec80-d503-11ea-9c3a-0037e8e3e732.png)
-
 ## Project setup
 ```
 yarn install
